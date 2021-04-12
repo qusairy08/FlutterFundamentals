@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
                 color: Colors.lightBlue,
                 width: 150,
                 height: 100,
-                child: Text("Saya sedang Melatih kemampuan Flutter saya.",
+                child: Text("Saya Sedang Melatih Kemampuan Flutter saya.",
                     style: TextStyle(
                         color: Colors.white,
                         fontStyle: FontStyle.italic,
